@@ -1,4 +1,4 @@
-package com.example.chapter_solid.SRP.correct
+package com.example.chapter_solid.SingleResponsabilityPrinciple.correct
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle

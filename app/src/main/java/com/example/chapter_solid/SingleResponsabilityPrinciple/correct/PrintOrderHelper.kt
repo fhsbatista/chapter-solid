@@ -1,4 +1,4 @@
-package com.example.chapter_solid.SRP.correct
+package com.example.chapter_solid.SingleResponsabilityPrinciple.correct
 
 /**
  * Created by Fernando Batista on 04/04/19.
