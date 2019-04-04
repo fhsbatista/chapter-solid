@@ -1,8 +1,9 @@
-package com.example.chapter_solid.SRP
+package com.example.chapter_solid.SRP.incorrect
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import com.example.chapter_solid.R
+import com.example.chapter_solid.SRP.correct.Order
 
 class GodActivity : AppCompatActivity() {
 
