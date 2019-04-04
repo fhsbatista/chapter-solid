@@ -3,9 +3,6 @@ package com.example.chapter_solid.SRP
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
-import com.example.chapter_solid.Order
-import com.example.chapter_solid.OrderDAO
-import com.example.chapter_solid.PrintOrderHelper
 import com.example.chapter_solid.R
 
 class SRPActivity : AppCompatActivity() {

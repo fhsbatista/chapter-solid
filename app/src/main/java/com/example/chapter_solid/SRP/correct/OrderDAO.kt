@@ -1,6 +1,4 @@
-package com.example.chapter_solid
-
-import com.example.chapter_solid.Order
+package com.example.chapter_solid.SRP
 
 /**
  * Created by Fernando Batista on 04/04/19.

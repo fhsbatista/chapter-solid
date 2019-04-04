@@ -1,4 +1,4 @@
-package com.example.chapter_solid
+package com.example.chapter_solid.SRP
 
 /**
  * Created by Fernando Batista on 04/04/19.
