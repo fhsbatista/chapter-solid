@@ -6,5 +6,5 @@ package com.example.chapter_solid.OpenClosePrinciple.correct
 
 abstract class Shape() {
 
-    public abstract fun getArea(): Double
+    abstract fun getArea(): Double
 }

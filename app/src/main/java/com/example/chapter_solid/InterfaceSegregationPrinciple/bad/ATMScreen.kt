@@ -10,7 +10,7 @@ class ATMScreen : ScreenBehavior {
         //do something
     }
 
-    //This class should not implment this method
+    //This class should not implement this method
     override fun onScreenDragged() {
         throw Exception("Gesture not supported")
     }

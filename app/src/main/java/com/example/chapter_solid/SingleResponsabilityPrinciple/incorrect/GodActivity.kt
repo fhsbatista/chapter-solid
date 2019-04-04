@@ -29,11 +29,11 @@ class GodActivity : AppCompatActivity() {
     }
 
     private fun saveOrder(order: Order) {
-        //Logic to persist the order
+        //Logic to persist the order in database
     }
 
     private fun printOrder(order: Order) {
-        //Logic to print the order
+        //Logic to print the order in a paper
     }
 
 
